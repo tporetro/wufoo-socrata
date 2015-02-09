@@ -1,6 +1,6 @@
 {
   "name": "wufooSocrata",
-  "description": "NYC org Chart",
+  "description": "Wufoo Webhook and SODA API Integration",
   "version": "1.0.0",
   "dependencies": {
     "express": "latest",
