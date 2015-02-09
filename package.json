@@ -1,0 +1,13 @@
+{
+  "name": "wufooSocrata",
+  "description": "NYC org Chart",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "fs": "latest",
+    "moment": "latest",
+    "request": "latest",
+    "dotenv": "latest"
+  }
+}
